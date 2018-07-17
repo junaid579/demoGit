@@ -64,6 +64,20 @@ On branch master
 nothing to commit, working tree clean
 working directory = local repository
 
+local repository ---> remote repository (github)
+connection. --> command will be given in github
+	git remote add origin <link to remote repository>
+	git remote add origin https://github.com/junaid579/demoGit.git
+git push origin master
+
+master -> local machine
+origin -> remote repository
+
+master -> master --> code got pushed to remote repository
+
+
+
+
 
 
 

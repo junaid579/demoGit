@@ -60,8 +60,9 @@ git add . --> all files from working directory to staging area
 git commit -m "<type any message>" --> send staging areas files to local repository
 git status --> status of initialised repository/folder
 
-
-
+On branch master
+nothing to commit, working tree clean
+working directory = local repository
 
 
 
